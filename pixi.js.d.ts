@@ -3637,6 +3637,6 @@ declare namespace pixi {
 }
 
 //tslint:disable-next-line:no-single-declare-module
-declare module "pixi.js" {
+declare module "pixi.js/dist/pixi.js" {
     export = PIXI;
 }
